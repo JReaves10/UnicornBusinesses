@@ -44,17 +44,17 @@ cd UnicornBusinesses
 ### 1. Identifying Top Industries
 We first find the top three industries with the most unicorns from 2019-2021:
 
-1
+![](first.png)
 
 ### 2. Calculating Yearly Rankings
 Next, we determine the number of unicorns and their average valuation:
 
-2
+![](second.png)
 
 ### 3. Generating Final Output
 Finally, we filter for the top industries and format the average valuation:
 
-3
+![](third.png)
 
 ### Results
 - Identifies the top three industries that produced the most unicorns between 2019-2021.
@@ -64,7 +64,7 @@ Finally, we filter for the top industries and format the average valuation:
 ### Output
 The final output presents the number of unicorns and their average valuation by industry and year. Below is a visual representation of the results:
 
-4
+![](fourth.png)
 
 ## Conclusion
 This project provides valuable insights into high-growth industries, helping investors identify trends and potential opportunities. By analyzing unicorn data, we can better understand which sectors are driving innovation and financial success.
